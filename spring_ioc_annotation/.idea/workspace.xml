@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3b6a0e2-787e-4522-acc8-e42c22011245" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1atE2MAxgxQHrdCONY0edzwVOXQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.demo6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zouzo\IdeaProjects\spring_ioc\spring_ioc_annotation\src\main\resources" />
+      <recent name="C:\Users\zouzo\IdeaProjects\spring_ioc\spring_ioc_annotation\src\main\java\com\imooc\demo7" />
+      <recent name="C:\Users\zouzo\IdeaProjects\spring_ioc\spring_ioc_annotation\src\main\java\com\imooc\demo6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringDemo7.demo1">
+    <configuration name="SpringDemo3.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.demo3" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo3.SpringDemo3" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo4.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.demo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.demo4" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo4.SpringDemo4" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo5.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.demo5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.demo5" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo5.SpringDemo5" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo6.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.demo6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.demo6" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo6.SpringDemo6" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemo7.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.demo7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.demo7" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.demo7.SpringDemo7" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDemo7.demo1" />
+        <item itemvalue="JUnit.SpringDemo6.demo1" />
+        <item itemvalue="JUnit.SpringDemo5.demo1" />
+        <item itemvalue="JUnit.SpringDemo4.demo1" />
+        <item itemvalue="JUnit.SpringDemo3.demo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b6a0e2-787e-4522-acc8-e42c22011245" name="Default Changelist" comment="" />
+      <created>1587546281512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587546281512</updated>
+      <workItem from="1587546285081" duration="8932000" />
+      <workItem from="1587715283532" duration="923000" />
+      <workItem from="1587798364654" duration="9871000" />
+      <workItem from="1587834406467" duration="738000" />
+      <workItem from="1587867388538" duration="4243000" />
+      <workItem from="1587966377535" duration="301000" />
+      <workItem from="1587971322396" duration="424000" />
+      <workItem from="1587991908869" duration="2543000" />
+      <workItem from="1588060719393" duration="601000" />
+      <workItem from="1588210284584" duration="39000" />
+      <workItem from="1588212734877" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1230" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1587831966387">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1230" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587831966387" />
+    <state width="1805" height="302" key="GridCell.Tab.0.bottom" timestamp="1587914825056">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="302" key="GridCell.Tab.0.bottom/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587914825056" />
+    <state width="1165" height="204" key="GridCell.Tab.0.bottom/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="302" key="GridCell.Tab.0.center" timestamp="1587914825056">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="302" key="GridCell.Tab.0.center/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587914825056" />
+    <state width="1165" height="204" key="GridCell.Tab.0.center/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="302" key="GridCell.Tab.0.left" timestamp="1587914825056">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="302" key="GridCell.Tab.0.left/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587914825056" />
+    <state width="1165" height="204" key="GridCell.Tab.0.left/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="302" key="GridCell.Tab.0.right" timestamp="1587914825056">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="302" key="GridCell.Tab.0.right/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587914825056" />
+    <state width="1165" height="204" key="GridCell.Tab.0.right/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="347" key="GridCell.Tab.1.bottom" timestamp="1587834383697">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="347" key="GridCell.Tab.1.bottom/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587834383697" />
+    <state width="1165" height="204" key="GridCell.Tab.1.bottom/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="347" key="GridCell.Tab.1.center" timestamp="1587834383697">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="347" key="GridCell.Tab.1.center/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587834383697" />
+    <state width="1165" height="204" key="GridCell.Tab.1.center/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="347" key="GridCell.Tab.1.left" timestamp="1587834383697">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="347" key="GridCell.Tab.1.left/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587834383697" />
+    <state width="1165" height="204" key="GridCell.Tab.1.left/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state width="1805" height="347" key="GridCell.Tab.1.right" timestamp="1587834383697">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="347" key="GridCell.Tab.1.right/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587834383697" />
+    <state width="1165" height="204" key="GridCell.Tab.1.right/0.0.1218.720/-1920.0.1858.1080@0.0.1218.720" timestamp="1587716209423" />
+    <state x="-1639" y="9" key="SettingsEditor" timestamp="1587562798942">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1639" y="9" key="SettingsEditor/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587562798942" />
+    <state x="-1790" y="166" key="new project wizard" timestamp="1587992507852">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1790" y="166" key="new project wizard/0.0.1218.720/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1587992507852" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/demo4/SpringDemo4.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

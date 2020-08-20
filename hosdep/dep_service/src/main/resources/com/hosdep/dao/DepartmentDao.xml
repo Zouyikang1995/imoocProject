@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.4//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hosdep.dao.DepartmentDao">
+    <resultMap id="resultMap" type="Department">
+        <id property="id" column="id" javaType="Integer"/>
+        <result property="categoryId" column="category_id" javaType="Integer"/>
+        <result property="name" column="name" javaType="String"/>
+        <result property="createTime" column="create_time" javaType="java.util.Date"/>
+        <result property="updateTime" column="update_time" javaType="java.util.Date"/>
+        <association property="category" column="category_id" javaType="Category" select="com.hosdep.dao.CategoryDao.selectById"/>
+    </resultMap>
+
+    <insert id="insert" parameterType="Department" useGeneratedKeys="true">
+        INSERT INTO dept(category_id,name) VALUES(#{categoryId},#{name})
+    </insert>
+    <delete id="delete" parameterType="Integer">
+        DELETE FROM dept WHERE id=#{id}
+    </delete>
+    <update id="update" parameterType="Department">
+        UPDATE dept SET category_id=#{categoryId},name=#{name} WHERE id=#{id}
+    </update>
+    <select id="selectById" parameterType="Integer" resultMap="resultMap">
+        SELECT * FROM dept WHERE id=#{id}
+    </select>
+    <select id="selectByCategoryId" parameterType="Integer" resultMap="resultMap">
+        SELECT * FROM dept WHERE category_id=#{categoryId}
+    </select>
+    <select id="selectAll" resultMap="resultMap">
+        SELECT * FROM dept
+    </select>
+</mapper>

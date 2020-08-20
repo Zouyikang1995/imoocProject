@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--开启注解扫描-->
+    <!--<context:component-scan base-package="com.imooc"/>-->
+
+    <!--<context:annotation-config/>-->
+    <!--<bean id="productService" class="com.imooc.demo3.ProductService">-->
+    <!--    &lt;!&ndash;<property name="categoryDao" ref="categoryDao"/>&ndash;&gt;-->
+    <!--</bean>-->
+
+    <!--<bean id="productDao" class="com.imooc.demo3.ProductDao"/>-->
+
+    <!--<bean id="categoryDao" class="com.imooc.demo3.CategoryDao"/>-->
+    <!--配置目标类-->
+    <bean id="studentDao" class="com.imooc.demo4.StudentDaoImpl"/>
+
+    <!--前置通知类型-->
+    <bean id="myBeforAdvice" class="com.imooc.demo4.MyBeforAdvice"/>
+
+    <!--Spring的AOP产生代理对象-->
+    <bean id="studentDaoProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+        <!--配置目标类-->
+        <property name="target" ref="studentDao"/>
+        <!--实现的接口-->
+        <property name="proxyInterfaces" value="com.imooc.demo4.StudentDao"/>
+        <!--采用拦截的名称-->
+        <property name="interceptorNames" value="myBeforAdvice"/>
+    </bean>
+</beans>
+

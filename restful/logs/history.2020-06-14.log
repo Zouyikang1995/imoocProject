@@ -1,0 +1,7 @@
+[http-nio-80-exec-1] 2020-06-14 23:44:38,480 INFO c.i.r.i.AccessHistoryInterceptor - 127.0.0.1|http://localhost/client.html|IntelliJ IDEA/193.6494.35
+[http-nio-80-exec-2] 2020-06-14 23:44:38,499 INFO c.i.r.i.AccessHistoryInterceptor - 127.0.0.1|http://localhost/|IntelliJ IDEA/193.6494.35
+[http-nio-80-exec-3] 2020-06-14 23:44:38,622 INFO c.i.r.i.AccessHistoryInterceptor - 0:0:0:0:0:0:0:1|http://localhost/client.html|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+[http-nio-80-exec-4] 2020-06-14 23:44:47,759 INFO c.i.r.i.AccessHistoryInterceptor - 0:0:0:0:0:0:0:1|http://localhost/restful/persons|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+[http-nio-80-exec-5] 2020-06-14 23:44:48,603 INFO c.i.r.i.AccessHistoryInterceptor - 0:0:0:0:0:0:0:1|http://localhost/restful/request/100|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+[http-nio-80-exec-6] 2020-06-14 23:44:51,834 INFO c.i.r.i.AccessHistoryInterceptor - 0:0:0:0:0:0:0:1|http://localhost/restful/request|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+[http-nio-80-exec-8] 2020-06-14 23:44:52,579 INFO c.i.r.i.AccessHistoryInterceptor - 0:0:0:0:0:0:0:1|http://localhost/restful/request|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
